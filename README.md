@@ -19,3 +19,7 @@ The high-end visual style is achieved through custom CSS injection in Streamlit.
 
 ### 4. What was the biggest technical challenge?
 **Dependency Resolution:** Deploying on Python 3.13 required careful management of the `Altair` and `Streamlit` versions to ensure the visualization libraries were compatible with the latest Python interpreter.
+
+## 🚀 Live Demo
+
+https://vignesh-tech-pulse.streamlit.app/
