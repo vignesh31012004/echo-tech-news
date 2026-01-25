@@ -14,4 +14,5 @@ A premium, high-contrast news discovery platform. It uses **Machine Learning (TF
 
 ## 🚀 Live Demo
 
-http://localhost:8502/#tech-news-2026
+https://vignesh-tech-pulse.streamlit.app/
+
