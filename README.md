@@ -33,4 +33,4 @@ The high-end visual style is achieved through custom CSS injection in Streamlit.
 
 ## 🚀 Live Demo
 
-https://vignesh-tech-pulse.streamlit.app/
+(https://vignesh-tech-pulse-news-engine.streamlit.app/)
